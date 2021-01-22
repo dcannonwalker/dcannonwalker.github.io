@@ -1,1 +1,13 @@
+# Site settings
+title: David Cannon Walker
 theme: jekyll-theme-minimal
+description: My personal site
+github_username: dcannonwalker
+
+# Build settings
+gems:
+  - jekyll-feed
+
+exclude: 
+  - Gemfile
+  - Gemfile.lock
