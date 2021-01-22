@@ -5,9 +5,6 @@ description: My personal site
 github_username: dcannonwalker
 
 # Build settings
-gems:
-  - jekyll-feed
-
 exclude: 
   - Gemfile
   - Gemfile.lock
